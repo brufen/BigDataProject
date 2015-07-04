@@ -1,0 +1,6 @@
+
+Comparison between hadoop/java and spark/scala - 
+I found hadoop easy to program and understand than spark probably beacuse of difficult syntax of scala.
+but it took very less time (at least order of 10x) for spark to generate output especially noticeable with large graph file 
+which generates 11 MB output. Probably because the intermediate data is stored in main memory as opposed to disk in case of hadoop.
+  
